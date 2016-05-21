@@ -1,0 +1,7 @@
+{
+    "dropbox":{
+        "client_id"    : "mgdg24hj869em64",
+        "secret"       : "4qgvc1jd32nbzlm",
+        "redirect_uri" : "http://localhost:4000/listFiles"
+    }
+}
